@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    font-family: 'EB Garamond', serif;
+    background-color: rgba(233, 156, 88, 0.3);
+}
